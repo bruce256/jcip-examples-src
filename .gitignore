@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+lib
+META-INF
+out
+jcip-examples-src.iml
+.idea
